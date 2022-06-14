@@ -39,6 +39,74 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "The Cocktail Experience S.L.",
+          "image": {
+            "alt": "1622550964069.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/14/67bbf4d4-4494-4769-864a-95829418944f_1622550964069.jpeg"
+          },
+          "URL": "https://the-cocktail.com/"
+        },
+        "roles": [
+          {
+            "name": "Senior Backend developer at The Cocktail",
+            "startDate": "2017-01-01",
+            "finishDate": "2021-12-01",
+            "challenges": [
+              {
+                "description": "In 5 years in this agency I was involved in multitude of projects for companies such as Movistar, Santander, Palacio del Hierro, Universidad Europea, etc..\n\nI also gave talks and support to my coworkers. I was responsible for the PHP technical area making functional documents and interviewing candidates."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Amazon SQS",
+                "type": "technology"
+              },
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "Elasticsearch",
+                "type": "technology"
+              },
+              {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "RabbitMQ",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              },
+              {
+                "name": "Varnish",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
