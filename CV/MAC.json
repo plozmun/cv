@@ -106,6 +106,18 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniero informático de sistemas",
+        "startDate": "1997-09-01",
+        "finishDate": "2000-07-01",
+        "institution": {
+          "name": "UCAM Murcia"
+        }
+      }
     ]
   },
   "careerPreferences": {
