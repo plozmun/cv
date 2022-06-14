@@ -43,6 +43,53 @@
     "jobs": [
       {
         "organization": {
+          "name": "O2O",
+          "image": {
+            "alt": "1551173309703.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/14/eeefe6aa-3b4e-4b4f-82aa-8578648a2846_1551173309703.jpeg"
+          },
+          "URL": "https://www.mo2o.com/"
+        },
+        "roles": [
+          {
+            "name": "Senior Software Developer at O2O",
+            "startDate": "2021-12-01",
+            "challenges": [
+              {
+                "description": "Building API’s to be used both for our frontend and mobile applications with high-quality code and tests."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Elasticsearch",
+                "type": "technology"
+              },
+              {
+                "name": "Lambda",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "The Cocktail Experience S.L.",
           "image": {
             "alt": "1622550964069.jpeg",
