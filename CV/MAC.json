@@ -104,6 +104,50 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Vivados",
+          "image": {
+            "alt": "1519897861477.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/14/bee7ae13-271f-4e25-98b7-e88ba8032761_1519897861477.jpeg"
+          },
+          "URL": "https://www.vivados.es/"
+        },
+        "roles": [
+          {
+            "name": "Solutions Architect and FullStack developer at Vivados",
+            "startDate": "2013-09-01",
+            "finishDate": "2017-01-01",
+            "challenges": [
+              {
+                "description": "Vivados is a Real estate portal built with Symfony. During this period i was responsible for the architecture and implementation (frontend and backend) of the portal. Vivados connects to a multitude of real estate agencies via APIs or other systems."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Elasticsearch",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              },
+              {
+                "name": "Varnish",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
