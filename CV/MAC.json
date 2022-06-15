@@ -12,7 +12,7 @@
       "description": "I'm a Backend software engineer located in Cartagena, Spain. I've been working for more than 20 years in the world of technology supporting companies to grow.\n\nOver the years, I have been involved in a multitude of projects related with a lot of sectors like bank, retail, ecommerce, education, multimedia..\n\nGood programming practices are essential in my day-to-day work and I try to help my coworkers for grow together.",
       "avatar": {
         "alt": "1647368373818.jpeg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/14/e8fd6499-7f93-4834-b6e2-b2a885f1dcd6_1647368373818.jpeg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/15/aa26f59a-c0b7-4dd4-addc-d1bbf677ace1_e8fd6499-7f93-4834-b.jpeg"
       },
       "location": {
         "notes": "Cabo de palos, Murcia, Spain"
@@ -31,12 +31,6 @@
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/pablolozano/"
       }
-    ],
-    "interestingFacts": [
-      {
-        "topic": "My hobbies",
-        "fact": "- Windsurf\n- Electric guitar"
-      }
     ]
   },
   "experience": {
@@ -46,7 +40,7 @@
           "name": "O2O",
           "image": {
             "alt": "1551173309703.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/14/eeefe6aa-3b4e-4b4f-82aa-8578648a2846_1551173309703.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/15/b6e79918-7774-40f6-a6f5-96e7d8f5b49a_eeefe6aa-3b4e-4b4f-8.jpeg"
           },
           "URL": "https://www.mo2o.com/"
         },
@@ -93,7 +87,7 @@
           "name": "The Cocktail Experience S.L.",
           "image": {
             "alt": "1622550964069.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/14/67bbf4d4-4494-4769-864a-95829418944f_1622550964069.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/15/97338a96-ae43-461f-a1a6-df06b1ed649b_67bbf4d4-4494-4769-8.jpeg"
           },
           "URL": "https://the-cocktail.com/"
         },
@@ -157,7 +151,7 @@
           "name": "Vivados",
           "image": {
             "alt": "1519897861477.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/14/bee7ae13-271f-4e25-98b7-e88ba8032761_1519897861477.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/15/7d415e39-a072-4a94-8c22-d035b34b5777_bee7ae13-271f-4e25-9.jpeg"
           },
           "URL": "https://www.vivados.es/"
         },
@@ -231,6 +225,12 @@
       },
       {
         "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Elasticsearch",
           "type": "technology"
         }
@@ -291,7 +291,15 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Elasticsearch",
+          "type": "technology"
+        },
+        {
           "name": "PHP",
+          "type": "technology"
+        },
+        {
+          "name": "Redis",
           "type": "technology"
         },
         {
